@@ -1,0 +1,10 @@
+{
+    "name": "Additional Keyboard Shortcuts to Google Chrome",
+    "version": "1.0",
+    "description": "An extension geared towards those who want more shortcuts!",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "manifest_version": 2
+}

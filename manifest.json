@@ -11,16 +11,27 @@
     "commands": {
         "duplicate_tab": {
             "suggested_key": {
-                "default": "Alt+Shift+P"
+                "default": "Alt+Shift+D"
             },
             "description": "Duplicate a Tab."
         },
-        "toggle-feature-foo": {
+        "mute_tab": {
             "suggested_key": {
-              "default": "Ctrl+Shift+Y",
-              "mac": "Command+Shift+Y"
+                "default": "Alt+Shift+M"
             },
-            "description": "Toggle feature foo"
+            "description": "Mute a tab."
+        },
+        "new_right_tab": {
+            "suggested_key": {
+                "default": "Alt+Shift+W"   
+            },
+            "description": "Create a new tab to the right."
+        },
+        "new_left_tab": {
+            "suggested_key": {
+                "default": "Alt+Shift+Q"   
+            },
+            "description": "Create a new tab to the right."
         }
     }
 }
